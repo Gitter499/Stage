@@ -1,9 +1,6 @@
-import argparse
+def main():
+    pass
 
 
-parser = argparse.ArgumentParser("CLI Tool for Stage")
-
-parser.add_argument("build")
-
-parser.parse_args()
-
+if __name__ == '__main__':
+    main()
